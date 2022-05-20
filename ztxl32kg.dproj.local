@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/16 10:29:53.000.067,=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/16 10:30:10.000.201,C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztoolkg.dproj=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/12/16 10:33:15.000.090,C:\Users\zivta\Documents\Embarcadero\Studio\Projects\KeyGen.dfm=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/12/16 10:33:15.000.090,C:\Users\zivta\Documents\Embarcadero\Studio\Projects\KeyGen.pas=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/16 10:33:24.000.778,C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztoolkg.dproj=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztoolkg.dproj</Transaction>
+    <Transaction>2020/12/22 20:55:07.000.679,=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztoolxlcom\ztbtest.dpr</Transaction>
+    <Transaction>2021/01/15 20:21:13.000.073,C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztxl32\ztoolkg.dproj=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztxl32\ztxl32kg.dproj</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

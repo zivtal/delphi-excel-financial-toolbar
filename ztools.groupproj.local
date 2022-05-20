@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/15 20:22:09.000.183,C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztxl32\ztool.groupproj=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztxl32\ztxl.groupproj</Transaction>
+    <Transaction>2021/01/16 12:27:30.000.438,C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztxl32\ztexcel.groupproj=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztxl32\ztxl.groupproj</Transaction>
+    <Transaction>2021/01/16 12:27:42.000.630,C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztxl32\ztool.groupproj=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztxl32\ztexcel.groupproj</Transaction>
+    <Transaction>2021/01/16 15:40:49.000.234,C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztools\ztool.groupproj=C:\Users\zivta\Documents\Embarcadero\Studio\Projects\ztools\ztools.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Users\zivta\Documents\Programming\dev\delphi\ztools\ztxl32.dproj"/>
+	</Default.Personality>
+</BorlandProject>
